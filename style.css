@@ -30,6 +30,10 @@
    
 }
 
+.video.play{
+    background-color: palevioletred;
+}
+
 .footer{
 
     background-color : pink;
