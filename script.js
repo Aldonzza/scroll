@@ -7,6 +7,7 @@ window.addEventListener('scroll', function () {
     var windowheight = window.innerHeight;
     var alturaVideo = video.offsetHeight;
 
+
     if (posVideo + alturaVideo < currentScroll + windowheight &&
         posVideo > currentScroll
     ) {
