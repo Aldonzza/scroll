@@ -41,4 +41,13 @@
     min-width: 1200px;
     min-height: 1200px;
    margin-top: 200px;
+   padding: 100px 60px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.cuadrado{
+    width: 150px;
+    height: 150px;;
+    background-color: black;
 }
