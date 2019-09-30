@@ -1,3 +1,44 @@
-body{
-    background-color: pink;
+
+.header h1{
+    color: cornsilk;
+}
+.header p{
+    color: cornsilk;
+}
+
+
+
+
+.header{
+    background-color : pink;
+    min-width: 2000px;
+    min-height: 2000px;
+   margin-bottom: 200px;
+}
+.body{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    height: 600px;
+}
+
+.video{
+    width: 640px;
+    height: 390;
+    display: flex;
+    justify-content: center;
+    background-color: salmon;
+   
+}
+
+.video.play{
+    background-color: palevioletred;
+}
+
+.footer{
+
+    background-color : pink;
+    min-width: 1200px;
+    min-height: 1200px;
+   margin-top: 200px;
 }
