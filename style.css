@@ -24,10 +24,11 @@
 
 .video{
     width: 640px;
-    height: 390;
+    height: 360px;
     display: flex;
     justify-content: center;
     background-color: salmon;
+    margin: 10%;
    
 }
 
