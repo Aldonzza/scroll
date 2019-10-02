@@ -57,14 +57,14 @@ body {
     min-width: 1200px;
     min-height: 1200px;
    margin-top: 200px;
-   display: flex;
-   justify-content: space-around;
+
+   padding: 100px 60px;
+    display: flex;
+    justify-content: space-between;
 }
 
 .cuadrado{
-    margin: auto;
-    width:400px;
-    height: 400px;
+    width: 150px;
+    height: 150px;;
     background-color: black;
 }
-
