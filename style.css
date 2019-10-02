@@ -52,8 +52,19 @@ body {
     justify-content: space-between;
 }
 
-.cuadrado {
-    width: 150px;
-    height: 150px;
-    background-color:greenyellow;
+
+    background-color : pink;
+    min-width: 1200px;
+    min-height: 1200px;
+   margin-top: 200px;
+   display: flex;
+   justify-content: space-around;
 }
+
+.cuadrado{
+    margin: auto;
+    width:400px;
+    height: 400px;
+    background-color: black;
+}
+
